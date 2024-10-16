@@ -1,16 +1,29 @@
-## Hi there 👋
+## Lucas Ferreira 
 
-<!--
-**lucas-devstudies/lucas-devstudies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre:
+---
+Tenho 22 anos, sou técnico em informática e estudante de Engenharia de Software no IFAM. Atualmente atuo principalmente como designer e sou atleta de programação competitiva. Trabalhei como bolsista no Samsung Ocara por um ano, como freelancer e como PIBIC no IFAM Campus Parintins
+
+### Tecnologias:
+---
+ * Kotlin
+ * Python
+ * SQL
+ * Html, Css e Javascript 
+ * Java
+
+### Conexões:
+---
+ * [Gmail](lucasfdasilva2002@gmail.com)
+
+ * [Instagram](instagram.com/lucas.devstudies)
+
+ * [LinkedIn](https://www.linkedin.com/in/lucas-devstudies)
+
+ * [Behance](https://www.behance.net/lucassilva567)
+
+### Certificações:
+---
+* Acessar os cursos
