@@ -1,5 +1,5 @@
 ## Lucas Ferreira 
-Tenho 22 anos, sou técnico em informática e estudante de Engenharia de Software no IFAM. Atualmente atuo principalmente como designer e sou atleta de programação competitiva. Trabalhei como bolsista no Samsung Ocara por um ano, como freelancer e como PIBIC no IFAM Campus Parintins
+Tenho 22 anos, sou técnico em informática e estudante de Engenharia de Software no IFAM. Atualmente atuo principalmente como designer e sou atleta de programação competitiva. Trabalhei como bolsista no Samsung Ocara por um ano, como freelancer e com PIBIC no IFAM Campus Parintins
 
  <div>
   <a href="https://github.com/rafaballerini">
