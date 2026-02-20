@@ -1,5 +1,5 @@
 ## Lucas Ferreira 
-Tenho 22 anos, sou técnico em informática e estudante de Engenharia de Software no IFAM. Atualmente atuo principalmente como designer e sou atleta de programação competitiva. Trabalhei como bolsista no Samsung Ocara por um ano, como freelancer e com PIBIC no IFAM Campus Parintins
+Tenho 23 anos, sou técnico em informática e estudante de Engenharia de Software no IFAM. Atualmente atuo principalmente como designer fullstack e sou atleta de programação competitiva. Trabalhei como bolsista no Samsung Ocara por um ano, como freelancer e com PIBIC no IFAM Campus Parintins
 
  <div>
     <a href="https://www.linkedin.com/in/lucas-devstudies" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
